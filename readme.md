@@ -10,7 +10,7 @@ Compute return and risk metrics
 Optimize portfolio allocation
 Visualize analytics through an interactive dashboard
 The system combines Data Science, Backend Engineering, Database Design, and Frontend Development into a single production-style architecture.
-
+<br/>
 <h3>🏗 System Architecture</h3>
 Frontend (React)
         ↓
